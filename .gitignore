@@ -1,0 +1,7 @@
+vendor/
+!vendor/stevebauman/
+node_modules/
+public/storage/
+storage/logs/
+.env
+.idea/

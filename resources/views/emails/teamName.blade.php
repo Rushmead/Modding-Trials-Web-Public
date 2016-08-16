@@ -1,0 +1,3 @@
+<h2>Dear team leader</h2>
+<p>The Modding Trials is coming up fast and we wanted users to have the ability to have a team name! So this is it, your big chance. Send an email to <a href="mailto:contact@moddingtrials.xyz?Subject=Team%20Name">contact@moddingtrials.xyz</a> with the subject of "Team Name". Give us your username and the team name you would like and we'll get it done! Good luck, and dont forget to have fun!</p>
+<h2>Thanks, The Modding Trials team</h2>

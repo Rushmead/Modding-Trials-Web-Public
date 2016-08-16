@@ -1,0 +1,3 @@
+<h3>Dear Competitor,</h3><br>
+<p>We would like to remind you that you are yet to build your mods booth on the server. The deadline is 12:00(midnigh) UTC+1 today. To join the server, you can find the launcher <a href="https://cdn.discordapp.com/attachments/205447667478691840/212599784253554689/launch.jar">here</a>. The IP address for the server is play.moddingtrials.xyz</p><br>
+<h4>Thanks, the Modding Trials Team</h4>
